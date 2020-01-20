@@ -58,7 +58,7 @@ class App extends React.Component {
           alt="weather icon"
         ></img>
         <div className="desc">
-          {this.state.weather.main.temp - 273.15}
+          {(this.state.weather.main.temp - 273.15).toFixed(0)}
           <span> &deg;C</span>
           <div>{this.state.weather.name}</div>
         </div>
@@ -104,7 +104,7 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-        <footer>Copyright &copy; 2020 kayodeFad</footer>
+        <footer>Copyright &copy; 2020 kayodeFad <i className="fab fa-github"></i></footer>
       </div>
     )
   }
