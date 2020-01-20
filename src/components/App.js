@@ -104,7 +104,16 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-        <footer>Copyright &copy; 2020 kayodeFad <i className="fab fa-github"></i></footer>
+        <footer>
+          Copyright &copy; 2020 kayodeFad{' '}
+          <a
+            style={{ color: '#fff' }}
+            href="https://github.com/kayodefad"
+            target="_blank"
+          >
+            <i className="fab fa-github"></i>
+          </a>
+        </footer>
       </div>
     )
   }
