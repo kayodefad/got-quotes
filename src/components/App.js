@@ -5,7 +5,6 @@ class App extends React.Component {
   state = {
     quote: null,
     weather: null,
-    bg: ['aryastark', 'branstark', 'brienne', 'cersie', 'jonsnow'],
     currentImg: 0
   }
 
@@ -72,7 +71,7 @@ class App extends React.Component {
     }
     return (
       <a
-        href={`https://twitter.com/intent/tweet?text=${this.state.quote.quote} - ${this.state.quote.character}`}
+        href={`https://twitter.com/intent/tweet?text=${this.state.quote.quote} -- ${this.state.quote.character} https://kayodefad.github.io/got-quotes/`}
         target="_blank"
         rel="noopener noreferrer"
       >
