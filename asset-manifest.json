@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/got-quotes/static/css/main.07da90bb.chunk.css",
-    "main.js": "/got-quotes/static/js/main.5df79175.chunk.js",
-    "main.js.map": "/got-quotes/static/js/main.5df79175.chunk.js.map",
+    "main.js": "/got-quotes/static/js/main.7d3c9d5f.chunk.js",
+    "main.js.map": "/got-quotes/static/js/main.7d3c9d5f.chunk.js.map",
     "runtime-main.js": "/got-quotes/static/js/runtime-main.26766a7a.js",
     "runtime-main.js.map": "/got-quotes/static/js/runtime-main.26766a7a.js.map",
     "static/js/2.b2cc98db.chunk.js": "/got-quotes/static/js/2.b2cc98db.chunk.js",
     "static/js/2.b2cc98db.chunk.js.map": "/got-quotes/static/js/2.b2cc98db.chunk.js.map",
     "index.html": "/got-quotes/index.html",
-    "precache-manifest.31389489cf93bfac1ddbcb72778ad21a.js": "/got-quotes/precache-manifest.31389489cf93bfac1ddbcb72778ad21a.js",
+    "precache-manifest.3afb86d7ccf5d10d2c7baaef43b0f963.js": "/got-quotes/precache-manifest.3afb86d7ccf5d10d2c7baaef43b0f963.js",
     "service-worker.js": "/got-quotes/service-worker.js",
     "static/css/main.07da90bb.chunk.css.map": "/got-quotes/static/css/main.07da90bb.chunk.css.map",
     "static/js/2.b2cc98db.chunk.js.LICENSE": "/got-quotes/static/js/2.b2cc98db.chunk.js.LICENSE",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.26766a7a.js",
     "static/js/2.b2cc98db.chunk.js",
     "static/css/main.07da90bb.chunk.css",
-    "static/js/main.5df79175.chunk.js"
+    "static/js/main.7d3c9d5f.chunk.js"
   ]
 }
