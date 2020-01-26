@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/got-quotes/static/css/main.31706e5b.chunk.css",
-    "main.js": "/got-quotes/static/js/main.1f673643.chunk.js",
-    "main.js.map": "/got-quotes/static/js/main.1f673643.chunk.js.map",
+    "main.css": "/got-quotes/static/css/main.07da90bb.chunk.css",
+    "main.js": "/got-quotes/static/js/main.5df79175.chunk.js",
+    "main.js.map": "/got-quotes/static/js/main.5df79175.chunk.js.map",
     "runtime-main.js": "/got-quotes/static/js/runtime-main.26766a7a.js",
     "runtime-main.js.map": "/got-quotes/static/js/runtime-main.26766a7a.js.map",
     "static/js/2.b2cc98db.chunk.js": "/got-quotes/static/js/2.b2cc98db.chunk.js",
     "static/js/2.b2cc98db.chunk.js.map": "/got-quotes/static/js/2.b2cc98db.chunk.js.map",
     "index.html": "/got-quotes/index.html",
-    "precache-manifest.88a165d5a0b8dc61e4612b99088c4972.js": "/got-quotes/precache-manifest.88a165d5a0b8dc61e4612b99088c4972.js",
+    "precache-manifest.31389489cf93bfac1ddbcb72778ad21a.js": "/got-quotes/precache-manifest.31389489cf93bfac1ddbcb72778ad21a.js",
     "service-worker.js": "/got-quotes/service-worker.js",
-    "static/css/main.31706e5b.chunk.css.map": "/got-quotes/static/css/main.31706e5b.chunk.css.map",
+    "static/css/main.07da90bb.chunk.css.map": "/got-quotes/static/css/main.07da90bb.chunk.css.map",
     "static/js/2.b2cc98db.chunk.js.LICENSE": "/got-quotes/static/js/2.b2cc98db.chunk.js.LICENSE",
-    "static/media/App.css": "/got-quotes/static/media/aryastark.8c9af1ae.jpg"
+    "static/media/aryastark.jpg": "/got-quotes/static/media/aryastark.8c9af1ae.jpg",
+    "static/media/branstark.jpg": "/got-quotes/static/media/branstark.cd63fb6f.jpg",
+    "static/media/brienne.jpg": "/got-quotes/static/media/brienne.e7cb2c69.jpg",
+    "static/media/cersie.jpg": "/got-quotes/static/media/cersie.e83a3bee.jpg",
+    "static/media/dragon.jpg": "/got-quotes/static/media/dragon.1e97e4e9.jpg",
+    "static/media/jonsnow.jpg": "/got-quotes/static/media/jonsnow.158f91ca.jpg",
+    "static/media/randomapp.jpg": "/got-quotes/static/media/randomapp.a87f62ec.jpg",
+    "static/media/sansa.jpg": "/got-quotes/static/media/sansa.69388969.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.26766a7a.js",
     "static/js/2.b2cc98db.chunk.js",
-    "static/css/main.31706e5b.chunk.css",
-    "static/js/main.1f673643.chunk.js"
+    "static/css/main.07da90bb.chunk.css",
+    "static/js/main.5df79175.chunk.js"
   ]
 }
