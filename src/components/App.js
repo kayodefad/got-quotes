@@ -37,9 +37,9 @@ class App extends React.Component {
       return <div>Loading...</div>
     }
     return (
-      <div>
+      <div className="quoteContainer">
         {this.state.quote.quote}
-        <div style={{ fontSize: '1rem', marginTop: '1rem' }}>
+        <div style={{ fontSize: '1rem', marginTop: '1rem', fontStyle: 'italic' }}>
           -- {this.state.quote.character}
         </div>
       </div>

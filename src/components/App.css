@@ -22,6 +22,10 @@ body {
   height: 100vh;
 }
 
+/* .quoteContainer {
+  transition: all 1s ease-in;
+} */
+
 .quote-body {
   display: flex;
 }
