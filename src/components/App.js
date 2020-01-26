@@ -11,7 +11,8 @@ class App extends React.Component {
       'brienne',
       'cersie',
       'jonsnow',
-      'sansa'
+      'sansa',
+      'dragon'
     ],
     currentImg: 0
   }
