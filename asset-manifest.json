@@ -1,27 +1,32 @@
 {
   "files": {
     "main.css": "/got-quotes/static/css/main.d85fa09c.chunk.css",
-    "main.js": "/got-quotes/static/js/main.619d3937.chunk.js",
-    "main.js.map": "/got-quotes/static/js/main.619d3937.chunk.js.map",
+    "main.js": "/got-quotes/static/js/main.05eee4a0.chunk.js",
+    "main.js.map": "/got-quotes/static/js/main.05eee4a0.chunk.js.map",
     "runtime-main.js": "/got-quotes/static/js/runtime-main.26766a7a.js",
     "runtime-main.js.map": "/got-quotes/static/js/runtime-main.26766a7a.js.map",
-    "static/js/2.924dc829.chunk.js": "/got-quotes/static/js/2.924dc829.chunk.js",
-    "static/js/2.924dc829.chunk.js.map": "/got-quotes/static/js/2.924dc829.chunk.js.map",
+    "static/js/2.bcfcdfcb.chunk.js": "/got-quotes/static/js/2.bcfcdfcb.chunk.js",
+    "static/js/2.bcfcdfcb.chunk.js.map": "/got-quotes/static/js/2.bcfcdfcb.chunk.js.map",
     "index.html": "/got-quotes/index.html",
-    "precache-manifest.2c7d246d54ec52bb78f3c349f48a9490.js": "/got-quotes/precache-manifest.2c7d246d54ec52bb78f3c349f48a9490.js",
+    "precache-manifest.2ce96670a00e043e211076befc86b87d.js": "/got-quotes/precache-manifest.2ce96670a00e043e211076befc86b87d.js",
     "service-worker.js": "/got-quotes/service-worker.js",
     "static/css/main.d85fa09c.chunk.css.map": "/got-quotes/static/css/main.d85fa09c.chunk.css.map",
-    "static/js/2.924dc829.chunk.js.LICENSE": "/got-quotes/static/js/2.924dc829.chunk.js.LICENSE",
+    "static/js/2.bcfcdfcb.chunk.js.LICENSE": "/got-quotes/static/js/2.bcfcdfcb.chunk.js.LICENSE",
     "static/media/aryastark.jpg": "/got-quotes/static/media/aryastark.47d24a11.jpg",
     "static/media/branstark.jpg": "/got-quotes/static/media/branstark.e464124d.jpg",
     "static/media/brienne.jpg": "/got-quotes/static/media/brienne.8f289da0.jpg",
     "static/media/cersie.jpg": "/got-quotes/static/media/cersie.7b557f16.jpg",
-    "static/media/jonsnow.jpg": "/got-quotes/static/media/jonsnow.2c28f685.jpg"
+    "static/media/dany.jpg": "/got-quotes/static/media/dany.29b8cd05.jpg",
+    "static/media/jaime.jpg": "/got-quotes/static/media/jaime.82a4692d.jpg",
+    "static/media/jonsnow.jpg": "/got-quotes/static/media/jonsnow.2c28f685.jpg",
+    "static/media/nightk.jpg": "/got-quotes/static/media/nightk.0a877c43.jpg",
+    "static/media/sansa.jpg": "/got-quotes/static/media/sansa.8815d200.jpg",
+    "static/media/tyrion.jpg": "/got-quotes/static/media/tyrion.71b9246a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.26766a7a.js",
-    "static/js/2.924dc829.chunk.js",
+    "static/js/2.bcfcdfcb.chunk.js",
     "static/css/main.d85fa09c.chunk.css",
-    "static/js/main.619d3937.chunk.js"
+    "static/js/main.05eee4a0.chunk.js"
   ]
 }

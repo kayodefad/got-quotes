@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "901a1084e65a27657655e9d9022febce",
+    "revision": "8c006b461e0ca36f1d2aca0d4ba4390b",
     "url": "/got-quotes/index.html"
   },
   {
-    "revision": "ff92be67b7f09a4ee1a3",
+    "revision": "66f04788919519ea746d",
     "url": "/got-quotes/static/css/main.d85fa09c.chunk.css"
   },
   {
-    "revision": "06cee736f0cffcd9ac5a",
-    "url": "/got-quotes/static/js/2.924dc829.chunk.js"
+    "revision": "77f18c06393f2576b0b2",
+    "url": "/got-quotes/static/js/2.bcfcdfcb.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/got-quotes/static/js/2.924dc829.chunk.js.LICENSE"
+    "url": "/got-quotes/static/js/2.bcfcdfcb.chunk.js.LICENSE"
   },
   {
-    "revision": "ff92be67b7f09a4ee1a3",
-    "url": "/got-quotes/static/js/main.619d3937.chunk.js"
+    "revision": "66f04788919519ea746d",
+    "url": "/got-quotes/static/js/main.05eee4a0.chunk.js"
   },
   {
     "revision": "9cacfb261a8dcaad9f52",
@@ -40,7 +40,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/got-quotes/static/media/cersie.7b557f16.jpg"
   },
   {
+    "revision": "29b8cd05922daa9bbde1dd5915d04505",
+    "url": "/got-quotes/static/media/dany.29b8cd05.jpg"
+  },
+  {
+    "revision": "82a4692d1f497863179d9e61d012660f",
+    "url": "/got-quotes/static/media/jaime.82a4692d.jpg"
+  },
+  {
     "revision": "2c28f685b9861caee3ecb3f13184af13",
     "url": "/got-quotes/static/media/jonsnow.2c28f685.jpg"
+  },
+  {
+    "revision": "0a877c439a2196475dcd35a9abae4f14",
+    "url": "/got-quotes/static/media/nightk.0a877c43.jpg"
+  },
+  {
+    "revision": "8815d2007f4543ce12162fd8ef1fe889",
+    "url": "/got-quotes/static/media/sansa.8815d200.jpg"
+  },
+  {
+    "revision": "71b9246aadaef3d7edf4672c4846037b",
+    "url": "/got-quotes/static/media/tyrion.71b9246a.jpg"
   }
 ]);
