@@ -1,10 +1,16 @@
 import React from 'react'
 import './App.css'
+import aryastark from '../images/aryastark.jpg'
+import branstark from '../images/branstark.jpg'
+import brienne from '../images/brienne.jpg'
+import cersie from '../images/cersie.jpg'
+import jonsnow from '../images/jonsnow.jpg'
 
 class App extends React.Component {
   state = {
     quote: null,
     weather: null,
+    images: [aryastark, branstark, brienne, cersie, jonsnow],
     currentImg: 0
   }
 
@@ -22,6 +28,26 @@ class App extends React.Component {
       .then(data => {
         this.setState({ weather: data })
       })
+
+    this.interval = setInterval(() => this.changeBackgroundImage(), 8000)
+  }
+
+  componentWillUnmount() {
+    if (this.interval) {
+      clearInterval(this.interval)
+    }
+  }
+
+  changeBackgroundImage() {
+    let newCurrentImg = 0
+    const { images, currentImg } = this.state
+    const noOfImages = images.length
+
+    if (currentImg !== noOfImages - 1) {
+      newCurrentImg = currentImg + 1
+    }
+
+    this.setState({ currentImg: newCurrentImg })
   }
 
   handleClick = () => {
@@ -39,7 +65,9 @@ class App extends React.Component {
     return (
       <div className="quoteContainer">
         {this.state.quote.quote}
-        <div style={{ fontSize: '1rem', marginTop: '1rem', fontStyle: 'italic' }}>
+        <div
+          style={{ fontSize: '1rem', marginTop: '1rem', fontStyle: 'italic' }}
+        >
           -- {this.state.quote.character}
         </div>
       </div>
@@ -83,8 +111,16 @@ class App extends React.Component {
   }
 
   render() {
+    const { images, currentImg } = this.state
+    const urlString = `#000 url(${images[currentImg]}) no-repeat center center/cover`
+
     return (
-      <div>
+      <div
+        style={{
+          background: urlString,
+          transition: 'background 2s ease-in-out'
+        }}
+      >
         {this.displayWeather()}
         <div className="App container">
           <div className="quote">
@@ -109,6 +145,7 @@ class App extends React.Component {
             style={{ color: '#fff' }}
             href="https://github.com/kayodefad"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <i className="fab fa-github"></i>
           </a>
