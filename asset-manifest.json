@@ -1,32 +1,23 @@
 {
   "files": {
-    "main.css": "/got-quotes/static/css/main.54271c99.chunk.css",
-    "main.js": "/got-quotes/static/js/main.05eee4a0.chunk.js",
-    "main.js.map": "/got-quotes/static/js/main.05eee4a0.chunk.js.map",
+    "main.css": "/got-quotes/static/css/main.94909238.chunk.css",
+    "main.js": "/got-quotes/static/js/main.34586a2b.chunk.js",
+    "main.js.map": "/got-quotes/static/js/main.34586a2b.chunk.js.map",
     "runtime-main.js": "/got-quotes/static/js/runtime-main.26766a7a.js",
     "runtime-main.js.map": "/got-quotes/static/js/runtime-main.26766a7a.js.map",
-    "static/js/2.bcfcdfcb.chunk.js": "/got-quotes/static/js/2.bcfcdfcb.chunk.js",
-    "static/js/2.bcfcdfcb.chunk.js.map": "/got-quotes/static/js/2.bcfcdfcb.chunk.js.map",
+    "static/js/2.b2cc98db.chunk.js": "/got-quotes/static/js/2.b2cc98db.chunk.js",
+    "static/js/2.b2cc98db.chunk.js.map": "/got-quotes/static/js/2.b2cc98db.chunk.js.map",
     "index.html": "/got-quotes/index.html",
-    "precache-manifest.62c45b3c5d2508d30a16ac72349bf7a7.js": "/got-quotes/precache-manifest.62c45b3c5d2508d30a16ac72349bf7a7.js",
+    "precache-manifest.87980038d0af5b93b6fcb0016b9acabb.js": "/got-quotes/precache-manifest.87980038d0af5b93b6fcb0016b9acabb.js",
     "service-worker.js": "/got-quotes/service-worker.js",
-    "static/css/main.54271c99.chunk.css.map": "/got-quotes/static/css/main.54271c99.chunk.css.map",
-    "static/js/2.bcfcdfcb.chunk.js.LICENSE": "/got-quotes/static/js/2.bcfcdfcb.chunk.js.LICENSE",
-    "static/media/aryastark.jpg": "/got-quotes/static/media/aryastark.47d24a11.jpg",
-    "static/media/branstark.jpg": "/got-quotes/static/media/branstark.e464124d.jpg",
-    "static/media/brienne.jpg": "/got-quotes/static/media/brienne.8f289da0.jpg",
-    "static/media/cersie.jpg": "/got-quotes/static/media/cersie.7b557f16.jpg",
-    "static/media/dany.jpg": "/got-quotes/static/media/dany.29b8cd05.jpg",
-    "static/media/jaime.jpg": "/got-quotes/static/media/jaime.82a4692d.jpg",
-    "static/media/jonsnow.jpg": "/got-quotes/static/media/jonsnow.2c28f685.jpg",
-    "static/media/nightk.jpg": "/got-quotes/static/media/nightk.0a877c43.jpg",
-    "static/media/sansa.jpg": "/got-quotes/static/media/sansa.8815d200.jpg",
-    "static/media/tyrion.jpg": "/got-quotes/static/media/tyrion.71b9246a.jpg"
+    "static/css/main.94909238.chunk.css.map": "/got-quotes/static/css/main.94909238.chunk.css.map",
+    "static/js/2.b2cc98db.chunk.js.LICENSE": "/got-quotes/static/js/2.b2cc98db.chunk.js.LICENSE",
+    "static/media/App.css": "/got-quotes/static/media/jonsnow.2c28f685.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.26766a7a.js",
-    "static/js/2.bcfcdfcb.chunk.js",
-    "static/css/main.54271c99.chunk.css",
-    "static/js/main.05eee4a0.chunk.js"
+    "static/js/2.b2cc98db.chunk.js",
+    "static/css/main.94909238.chunk.css",
+    "static/js/main.34586a2b.chunk.js"
   ]
 }
