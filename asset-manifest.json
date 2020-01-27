@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/got-quotes/static/css/main.d85fa09c.chunk.css",
+    "main.css": "/got-quotes/static/css/main.54271c99.chunk.css",
     "main.js": "/got-quotes/static/js/main.05eee4a0.chunk.js",
     "main.js.map": "/got-quotes/static/js/main.05eee4a0.chunk.js.map",
     "runtime-main.js": "/got-quotes/static/js/runtime-main.26766a7a.js",
@@ -8,9 +8,9 @@
     "static/js/2.bcfcdfcb.chunk.js": "/got-quotes/static/js/2.bcfcdfcb.chunk.js",
     "static/js/2.bcfcdfcb.chunk.js.map": "/got-quotes/static/js/2.bcfcdfcb.chunk.js.map",
     "index.html": "/got-quotes/index.html",
-    "precache-manifest.2ce96670a00e043e211076befc86b87d.js": "/got-quotes/precache-manifest.2ce96670a00e043e211076befc86b87d.js",
+    "precache-manifest.62c45b3c5d2508d30a16ac72349bf7a7.js": "/got-quotes/precache-manifest.62c45b3c5d2508d30a16ac72349bf7a7.js",
     "service-worker.js": "/got-quotes/service-worker.js",
-    "static/css/main.d85fa09c.chunk.css.map": "/got-quotes/static/css/main.d85fa09c.chunk.css.map",
+    "static/css/main.54271c99.chunk.css.map": "/got-quotes/static/css/main.54271c99.chunk.css.map",
     "static/js/2.bcfcdfcb.chunk.js.LICENSE": "/got-quotes/static/js/2.bcfcdfcb.chunk.js.LICENSE",
     "static/media/aryastark.jpg": "/got-quotes/static/media/aryastark.47d24a11.jpg",
     "static/media/branstark.jpg": "/got-quotes/static/media/branstark.e464124d.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.26766a7a.js",
     "static/js/2.bcfcdfcb.chunk.js",
-    "static/css/main.d85fa09c.chunk.css",
+    "static/css/main.54271c99.chunk.css",
     "static/js/main.05eee4a0.chunk.js"
   ]
 }
