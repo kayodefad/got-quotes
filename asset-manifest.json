@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/got-quotes/static/css/main.94909238.chunk.css",
+    "main.css": "/got-quotes/static/css/main.e2fd3b0d.chunk.css",
     "main.js": "/got-quotes/static/js/main.34586a2b.chunk.js",
     "main.js.map": "/got-quotes/static/js/main.34586a2b.chunk.js.map",
     "runtime-main.js": "/got-quotes/static/js/runtime-main.26766a7a.js",
@@ -8,16 +8,16 @@
     "static/js/2.b2cc98db.chunk.js": "/got-quotes/static/js/2.b2cc98db.chunk.js",
     "static/js/2.b2cc98db.chunk.js.map": "/got-quotes/static/js/2.b2cc98db.chunk.js.map",
     "index.html": "/got-quotes/index.html",
-    "precache-manifest.87980038d0af5b93b6fcb0016b9acabb.js": "/got-quotes/precache-manifest.87980038d0af5b93b6fcb0016b9acabb.js",
+    "precache-manifest.1006ed8581ece333aa8e6a0e5186a209.js": "/got-quotes/precache-manifest.1006ed8581ece333aa8e6a0e5186a209.js",
     "service-worker.js": "/got-quotes/service-worker.js",
-    "static/css/main.94909238.chunk.css.map": "/got-quotes/static/css/main.94909238.chunk.css.map",
+    "static/css/main.e2fd3b0d.chunk.css.map": "/got-quotes/static/css/main.e2fd3b0d.chunk.css.map",
     "static/js/2.b2cc98db.chunk.js.LICENSE": "/got-quotes/static/js/2.b2cc98db.chunk.js.LICENSE",
     "static/media/App.css": "/got-quotes/static/media/jonsnow.2c28f685.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.26766a7a.js",
     "static/js/2.b2cc98db.chunk.js",
-    "static/css/main.94909238.chunk.css",
+    "static/css/main.e2fd3b0d.chunk.css",
     "static/js/main.34586a2b.chunk.js"
   ]
 }
