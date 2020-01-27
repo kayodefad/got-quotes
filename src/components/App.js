@@ -1,35 +1,8 @@
 import React from 'react'
 import './App.css'
-import aryastark from '../images/aryastark.jpg'
-import branstark from '../images/branstark.jpg'
-import brienne from '../images/brienne.jpg'
-import cersie from '../images/cersie.jpg'
-import jonsnow from '../images/jonsnow.jpg'
-import dany from '../images/dany.jpg'
-import jaime from '../images/jaime.jpg'
-import nightk from '../images/nightk.jpg'
-import sansa from '../images/sansa.jpg'
-import tyrion from '../images/tyrion.jpg'
 
 class App extends React.Component {
-  state = {
-    quote: null,
-    weather: null,
-    images: [
-      aryastark,
-      branstark,
-      brienne,
-      cersie,
-      jonsnow,
-      dany,
-      jaime,
-      nightk,
-      sansa,
-      tyrion
-    ],
-    currentImg: 0,
-    bg: aryastark
-  }
+  state = { quote: null, weather: null }
 
   componentDidMount() {
     fetch('https://got-quotes.herokuapp.com/quotes')
@@ -45,26 +18,6 @@ class App extends React.Component {
       .then(data => {
         this.setState({ weather: data })
       })
-
-    this.interval = setInterval(() => this.changeBackgroundImage(), 8000)
-  }
-
-  componentWillUnmount() {
-    if (this.interval) {
-      clearInterval(this.interval)
-    }
-  }
-
-  changeBackgroundImage() {
-    let newCurrentImg = 0
-    const { images, currentImg } = this.state
-    const noOfImages = images.length
-
-    if (currentImg !== noOfImages - 1) {
-      newCurrentImg = currentImg + 1
-    }
-
-    this.setState({ currentImg: newCurrentImg })
   }
 
   handleClick = () => {
@@ -73,8 +26,6 @@ class App extends React.Component {
       .then(data => {
         this.setState({ quote: data })
       })
-    let randomNum = Math.floor(Math.random() * this.state.images.length)
-    this.setState({ bg: this.state.images[randomNum] })
   }
 
   renderQuote = () => {
@@ -130,16 +81,8 @@ class App extends React.Component {
   }
 
   render() {
-    // const { images, currentImg } = this.state
-    const urlString = `#000 url(${this.state.bg}) no-repeat center center/cover`
-
     return (
-      <div
-        style={{
-          background: urlString,
-          transition: 'background 2s ease-in-out'
-        }}
-      >
+      <div>
         {this.displayWeather()}
         <div className="App container">
           <div className="quote">
