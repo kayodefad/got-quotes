@@ -6,7 +6,7 @@
 
 body {
   background: url(../images/jonsnow.jpg) no-repeat center center/cover;
-  color: #fff
+  color: #fff;
 }
 
 .container {
@@ -103,11 +103,11 @@ img {
 }
 
 @media (max-width: 378px) {
-  a button{
+  a button {
     margin-top: 1rem;
   }
 }
 
-i.fa-twitter{
+i.fa-twitter {
   color: rgb(0, 153, 255);
 }
